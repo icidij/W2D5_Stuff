@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(166, 209, 86);
+    font-family: Arial, sans-serif;
+    
+}
+
+h1 {
+font-size: 38px;
+
+    }
+
+
+h2 {
+    font-size: 32px;
+}
+
+
+
+ul .ingredients-list {
+
+    list-style: square inside;
+}
+ol {
+    list-style: inside;
+
+}
+
+
+body div > section#reviews form.user-review {
+
+font-family: cursive;
+
+}
